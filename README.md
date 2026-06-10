@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mortezaa Bahmani</h1>
-<h3 align="center">I’m interested in learning about technologies, security, and automating tasks.</h3>
 
-- 🔭 I’m currently working on **Many things that don’t make money. :(**
+<h3 align="center">
+I spend an unreasonable amount of time learning how things work and an even more unreasonable amount of time automating them.
+</h3>
 
-- 🌱 I’m currently learning **“How do computers function these days?”**
+* 🔭 I’m currently building **tools, experiments, and side projects that seemed like good ideas at 2 AM.**
 
-- 🤝 I’m looking for help with **Living in the wild and untamed Southwest Asia, also known as the Middle East.**
+* 🌱 I’m currently learning **computer internals, infrastructure, and whatever catches my attention this week.**
 
-- 💬 Ask me about **"How can I find a better job?"**
+* 🤝 I occasionally contribute to **other people's projects when I manage to escape my own rabbit holes.**
 
-- 📫 How to reach me **mortezaa.bahmani@gmail.com**
+* 💬 Ask me about **Linux, self-hosting, automation, web development, and career growth.**
 
-- ⚡ Fun fact **I believe I have a fulfilling and joyful life.**
+* 📫 Reach me at **[mortezaa.bahmani@gmail.com](mailto:mortezaa.bahmani@gmail.com)**
+
+* ⚡ Fun fact: **I started learning technology years ago and still have no idea where all the RAM goes.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
