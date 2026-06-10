@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mortezaa Bahmani</h1>
+<h1 align="center">Hi 👋, I'm Morteza Bahmani</h1>
 
 <h3 align="center">
 I spend an unreasonable amount of time learning how things work and an even more unreasonable amount of time automating them.
