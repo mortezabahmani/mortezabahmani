@@ -12,7 +12,7 @@ I spend an unreasonable amount of time learning how things work and an even more
 
 * 💬 Ask me about **Linux, self-hosting, automation, web development, and career growth.**
 
-* 📫 Reach me at **[mortezaa.bahmani@gmail.com](mailto:mortezaa.bahmani@gmail.com)**
+* 📫 Reach me at **[hello@mortezaa.com](mailto:hello@mortezaa.com)**
 
 * ⚡ Fun fact: **I started learning technology years ago and still have no idea where all the RAM goes.**
 
